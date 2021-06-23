@@ -1,0 +1,21 @@
+.header{
+    background-color:#110101 ;
+    color: #fa0707;
+    display: flex;
+    justify-content: center;
+}
+.grid{
+    background:#99bbbb;
+    background-color:ffffff;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+}
+.img{
+    border: 3px solid ;
+    border-radius: 10px;
+    width: 409px;
+    
+}
